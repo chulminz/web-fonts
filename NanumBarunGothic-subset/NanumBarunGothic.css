@@ -1,0 +1,50 @@
+/* 
+* Nanum Barun Gothic (Korean) http://hangeul.naver.com
+*/
+@font-face {
+	font-family: 'Nanum Barun Gothic UltraLight';
+	font-style: normal;
+	font-weight: 200;
+	src: local('Nanum Barun Gothic UltraLight'), local('NanumBarunGothicUltraLight');
+	src: url(./NanumBarunGothicUltraLight.eot);
+	src: url(./NanumBarunGothicUltraLight.eot?#iefix) format('embedded-opentype'),
+	     url(./NanumBarunGothicUltraLight.woff) format('woff'),
+	     url(./NanumBarunGothicUltraLight.woff2) format('woff2'),
+	     url(./NanumBarunGothicUltraLight.ttf) format('truetype');
+}
+
+@font-face {
+	font-family: 'Nanum Barun Gothic Light';
+	font-style: normal;
+	font-weight: 300;
+	src: local('Nanum Barun Gothic Light'), local('NanumBarunGothicLight');
+	src: url(./NanumBarunGothicLight.eot);
+	src: url(./NanumBarunGothicLight.eot?#iefix) format('embedded-opentype'),
+	     url(./NanumBarunGothicLight.woff) format('woff'),
+	     url(./NanumBarunGothicLight.woff2) format('woff2'),
+	     url(./NanumBarunGothicLight.ttf) format('truetype');
+}
+
+@font-face {
+	font-family: 'Nanum Barun Gothic';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Nanum Barun Gothic'), local('NanumBarunGothic');
+	src: url(./NanumBarunGothic.eot);
+	src: url(./NanumBarunGothic.eot?#iefix) format('embedded-opentype'),
+	     url(./NanumBarunGothic.woff) format('woff'),
+	     url(./NanumBarunGothic.woff2) format('woff2'),
+	     url(./NanumBarunGothic.ttf) format('truetype');
+}
+
+@font-face {
+	font-family: 'Nanum Barun Gothic Bold';
+	font-style: normal;
+	font-weight: 700;
+	src: local('Nanum Barun Gothic Bold'), local('NanumBarunGothicBold');
+	src: url(./NanumBarunGothicBold.eot);
+	src: url(./NanumBarunGothicBold.eot?#iefix) format('embedded-opentype'),
+	     url(./NanumBarunGothicBold.woff) format('woff'),
+	     url(./NanumBarunGothicBold.woff2) format('woff2'),
+	     url(./NanumBarunGothicBold.ttf) format('truetype');
+}
