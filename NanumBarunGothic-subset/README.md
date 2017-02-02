@@ -31,30 +31,5 @@
 }
 ```
 
-
-## Naming
-
-Font Family Name : NanumBarunGothic, 나눔바른고딕
-Font Subfamily Name : Bold
-Full Font Name : NanumBarunGothic Bold, 나눔바른고딕 Bold
-Postscript Name : NanumBarunGothicBold
-
-Font Family Name : NanumBarunGothic, 나눔바른고딕
-Font Subfamily Name : Regular
-Full Font Name : NanumBarunGothic, 나눔바른고딕
-Postscript Name : NanumBarunGothic
-
-Font Family Name : NanumBarunGothic Light, 나눔바른고딕 Light
-Font Subfamily Name : Light
-Full Font Name : NanumBarunGothic Light, 나눔바른고딕 Light
-Postscript Name : NanumBarunGothicLight
-
-Font Family Name : NanumBarunGothic UltraLight, 나눔바른고딕 UltraLight
-Font Subfamily Name : UltraLight
-Full Font Name : NanumBarunGothic UltraLight, 나눔바른고딕 UltraLight
-Postscript Name : NanumBarunGothicUltraLight
-
-
-
 ## License
 Copyright ⓒ 2013 NHN Corporation. All rights reserved. Font designed by FONTRIX Inc.
